@@ -25,7 +25,7 @@
   - ***Selection*** Sort  
   - ***Quick*** Sort
   - ***Merge*** Sort
-- [Stack](https://github.com/AnishLohiya/DSA-in-C/tree/master/Stack)
+- [Stack](https://github.com/SarveshPatil46/DSA-using-C/tree/main/Stack)
    - Stack Using ***Array***
    - Stack using ***Linked List***
    - ***Infix to Postfix*** Conversion
